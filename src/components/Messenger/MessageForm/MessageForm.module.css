@@ -1,0 +1,31 @@
+.messageFormWrapper{
+    margin-top: 20px;
+}
+
+.messageFormWrapper textArea{
+    width: 30%;
+    min-height: 50px;
+}
+
+.messageFormWrapper label{
+    color: rgb(138, 13, 4);
+}
+
+.messageFormWrapper button{
+    background-color: rgb(17, 87, 29);
+    color: rgb(226, 195, 157);
+    font-size: 16px;
+    border-radius: 10px;
+    width: 120px;
+    height: 35px;
+    margin-top: 10px;
+}
+.messageFormWrapper button:hover{
+    background-color: rgb(138, 13, 4);
+    color: rgb(226, 195, 157);
+    font-size: 16px;
+    border-radius: 10px;
+    width: 120px;
+    height: 35px;
+    margin-top: 10px;
+}

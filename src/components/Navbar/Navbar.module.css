@@ -1,0 +1,21 @@
+.navBar {
+    grid-area: navBar;
+    background-color: rgb(75, 62, 44);
+    padding-top: 30px;
+    padding-left: 30px;
+    font-size: 24px;
+}
+
+.item {
+    color: rgb(22, 15, 1);
+    text-decoration: none;
+}
+
+.active {
+    color: rgb(138, 13, 4);
+    text-decoration: none;
+}
+
+.p {
+    padding-top: 30px;
+}

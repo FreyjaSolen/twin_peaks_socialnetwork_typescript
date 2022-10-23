@@ -1,0 +1,18 @@
+.nonContainer{
+    background-color: rgb(226, 195, 157);
+    min-height: 70vh;
+}
+
+.tittle{
+    font-size: 26px;
+    color:  rgb(17, 87, 29);
+    text-align: center;
+    padding-top: 40px;
+    text-decoration:overline
+}
+.error{
+    font-size: 54px;
+    color:  rgb(22, 15, 1);
+    text-align: center;
+    margin-top: 15%;
+}

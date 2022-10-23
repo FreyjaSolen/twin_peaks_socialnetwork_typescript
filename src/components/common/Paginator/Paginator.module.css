@@ -1,0 +1,59 @@
+.pages{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.buttonHelper{
+    background-color: rgb(17, 87, 29);
+    color: rgb(226, 195, 157);
+    font-size: 16px;
+    border-radius: 10px;
+    margin-left: 5px;
+    width: 50px;
+    height: 35px;
+}
+.buttonHelper:hover{
+    background-color: rgb(25, 129, 43);
+    color: rgb(226, 195, 157);
+    font-size: 16px;
+    border-radius: 10px;
+    margin-left: 5px;
+    width: 50px;
+    height: 35px;
+}
+.buttonEmpty{
+    background-color: rgb(226, 195, 157);
+    color:  rgb(100, 22, 3);
+    font-size: 16px;
+    border-radius: 10px;
+    margin-left: 5px;
+    width: 50px;
+    height: 35px;
+}
+.buttonPage{
+    background-color: rgb(75, 62, 44);
+    color: rgb(22, 15, 1);
+    font-size: 16px;
+    border-radius: 10px;
+    margin-left: 5px;
+    width: 50px;
+    height: 35px;
+}
+.buttonPage:hover {
+    background-color: rgb(117, 97, 68);
+    color: rgb(22, 15, 1);
+    font-size: 16px;
+    border-radius: 10px;
+    margin-left: 5px;
+    width: 50px;
+    height: 35px;
+}
+.buttonPageActive{
+    background-color: rgb(75, 62, 44);
+    color: rgb(138, 13, 4);
+    font-size: 16px;
+    border-radius: 10px;
+    margin-left: 5px;
+    width: 50px;
+    height: 35px;
+}

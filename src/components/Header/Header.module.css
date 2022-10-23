@@ -1,0 +1,46 @@
+.header {
+  grid-area: header;
+  background-color: rgb(17, 87, 29);
+  /* background-color: rgb(150, 5, 5); */
+}
+
+.header img {
+  height: 60px;
+  display: block;
+  float: left;
+  padding-left: 30px;
+}
+
+.auth {
+  float: right;
+  margin-right: 30px;
+  margin-top: 12px;
+  font-size: 20px;
+  color: rgb(226, 195, 157);
+}
+
+.buttonLog{
+  background-color: rgb(17, 87, 29);
+  border: rgb(17, 87, 29);
+  font-size: 22px;
+  color: rgb(226, 195, 157);
+  width: 150px;
+}
+.buttonLog:hover {
+  background-color: rgb(17, 87, 29);
+  border: rgb(17, 87, 29);
+  font-size: 22px;
+  color: rgb(252, 224, 190);
+  width: 150px;
+}
+
+.active {
+  font-size: 22px;
+  color: rgb(226, 195, 157);
+  text-decoration: none;
+}
+.active:hover {
+  font-size: 22px;
+  color: rgb(252, 224, 190);
+  text-decoration: none;
+}

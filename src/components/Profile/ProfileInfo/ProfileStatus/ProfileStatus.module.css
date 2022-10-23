@@ -1,0 +1,10 @@
+.statusWrapper{
+display: inline-block;
+}
+
+.status{
+    color: rgb(138, 13, 4);
+    font-size: 18px;
+    font-style: italic;
+    margin-bottom: 20px;
+}

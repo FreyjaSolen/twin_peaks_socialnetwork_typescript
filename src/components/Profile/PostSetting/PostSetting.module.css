@@ -1,0 +1,22 @@
+.postSettingContainer{
+    grid-area: grid;
+    margin: 20px;
+}
+
+.postSetting{
+    margin: 20px;
+}
+
+.textArea{
+    width: 22%;
+    min-height: 50px;
+}
+.buttonAdd{
+    background-color: rgb(17, 87, 29);
+    color: rgb(226, 195, 157);
+    font-size: 16px;
+    border-radius: 10px;
+    width: 150px;
+    height: 35px;
+    margin-top: 10px;
+}

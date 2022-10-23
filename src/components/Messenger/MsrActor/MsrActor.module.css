@@ -1,0 +1,25 @@
+.actorWrapper{
+    padding-top: 10px;
+    padding-left: 20px;
+}
+.dialogActor
+{
+    color: rgb(22, 15, 1);
+    text-decoration: none;
+    display: flex;
+    align-items: center
+}
+
+.dialogActorActiv {
+color: rgb(62, 126, 10);
+text-decoration: none;
+display: flex;
+align-items: center
+}
+
+.actorWrapper img
+{
+    width: 60px;
+    border-radius: 30px;
+    margin-right: 10px;
+}

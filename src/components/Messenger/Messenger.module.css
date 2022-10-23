@@ -1,0 +1,17 @@
+.messengerWrapper
+{
+display: grid;
+grid-template-columns: 2fr 8fr;
+background-color: rgb(226, 195, 157);
+min-height: 88vh;
+}
+.dialogConteiner
+{
+    background-color: rgb(226, 195, 157);
+}
+
+.dialogsItemConteiner
+{
+    background-color: rgb(226, 195, 157);
+    margin-left: 20px;
+}

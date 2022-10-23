@@ -1,0 +1,9 @@
+.wrapper{
+    display: grid;
+    grid-template-columns: 2fr 12fr;
+}
+.description{
+    font-size: 18px;
+    color:  rgb(100, 22, 3);  
+    margin-top: 3px; 
+}
